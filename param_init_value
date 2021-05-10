@@ -43,8 +43,8 @@ SteerMaxvAdj:13
 OpkrBatteryChargingControl:1
 OpkrBatteryChargingMin:70
 OpkrBatteryChargingMax:80
-LeftCurvOffsetAdj:0
-RightCurvOffsetAdj:0
+LeftCurvOffsetAdj:-10 ~ -15
+RightCurvOffsetAdj: 10 ~ 15
 DebugUi1:0
 DebugUi2:0
 LongLogDisplay:0
